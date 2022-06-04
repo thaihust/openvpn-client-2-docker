@@ -1,4 +1,4 @@
-# SETUP OpenVPN
+# Setup OpenVPN client 2 using docker
 ## Step 1: Clone project
 
 ```sh
@@ -10,7 +10,7 @@ cp vpn_config.yaml /etc/vpn-client
 ```
 
 ## Step 2: Access OpenVPN AS portal and download client.ovpn
-- Download client.ovpn from OpenVPN AS
+- Download client.ovpn from OpenVPN AS. Ex: https://vpn.fago-labs.com
 - Copy the new file `client.ovpn` into directory: `etc/vpn-client`
 
 ## Step 3: Change dotenv
