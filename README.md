@@ -11,7 +11,7 @@ cp vpn_config.yaml /etc/vpn-client
 
 ## Step 2: Access OpenVPN AS portal and download client.ovpn
 - Download client.ovpn from OpenVPN AS. Ex: https://vpn.fago-labs.com
-- Copy the new file `client.ovpn` into directory: `etc/vpn-client`
+- Copy the new file `client.ovpn` into directory: `/etc/vpn-client`
 
 ## Step 3: Change dotenv
 - Open file `dotenv` and change the below parameters:
