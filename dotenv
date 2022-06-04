@@ -1,0 +1,4 @@
+VPN_USER=some_user
+VPN_PASSWORD=some_password
+VPN_TOTP_CODE=TOTP_CODE_HERE
+VPN_URL=https://vpn.fago-labs.com

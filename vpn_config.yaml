@@ -1,0 +1,4 @@
+vpn_user: VPN_USER
+vpn_password: VPN_PASSWORD
+vpn_totp_code: VPN_TOTP_CODE
+vpn_url: VPN_URL
